@@ -44,7 +44,7 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-007bff?style=for-the-badge&logo=Google&logoColor=FFD700" />
-    <a href="https://github.com/Modern-Wizard/googlecybercert">view certificate</a>
+    <a href="https://github.com/Modern-Wizard/googlecert.png">view certificate</a>
 </div>
 
 ## Projects
