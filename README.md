@@ -6,7 +6,6 @@
 I am a cybersecurity enthusiast with a solid foundation in cybersecurity principles and hands-on experience gained through certifications, personal projects, and labs. I am eager to start my career as a cybersecurity analyst, where I can apply my technical skills, attention to detail, and problem-solving abilities to safeguard organizations' assets.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,7 +17,6 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -41,7 +39,7 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-007bff?style=for-the-badge&logo=Google&logoColor=FFD700" />
     <a href="https://github.com/Modern-Wizard/Modern-Wizard/blob/main/googlecert.png">view certificate</a>
