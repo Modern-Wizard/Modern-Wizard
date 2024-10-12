@@ -5,16 +5,12 @@
 
 I am a cybersecurity enthusiast with a solid foundation in cybersecurity principles and hands-on experience gained through certifications, personal projects, and labs. I am eager to start my career as a cybersecurity analyst, where I can apply my technical skills, attention to detail, and problem-solving abilities to safeguard organizations' assets.
 
-## Skills
+## Hands on Experience 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="#">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                     
+|-----------------------------------------------
+| SIEM Implementation and Log Analysis          
+| Network Traffic Monitoring and Attack Detection 
 
 ## Tools
 
