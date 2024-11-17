@@ -10,28 +10,32 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Cyber Defence Frameworks       | <a href="https://google.com">Detection Lab</a>|
+| Cyber Threat Intelligence | <a href="https://google.com">Detection Lab</a>|
+| Network Security and Traffic Analysis        | <a href="https://google.com">Detection Lab</a>|
+| Endpoint Security Monitoring      | <a href="https://google.com">Detection Lab</a>|
+| Security Information and Event Managemen                  | <a href="https://google.com">Detection Lab</a>|
+| Digital Forensics and Incident Response | <a href="https://google.com">Detection Lab</a>|
+| Phishing | <a href="https://google.com">Detection Lab</a>|
+| SOC Level 1 Capstone Challenges | <a href="https://google.com">Detection Lab</a>|
+| Active Directory | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-F04E23?style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-2C8EBB?style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-FF0000?style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCPDump-006600?style=for-the-badge&logo=TCPDump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-F04E23?style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=GoogleCloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    
 </div>
 
 ## Certifications
@@ -39,6 +43,7 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-007bff?style=for-the-badge&logo=Google&logoColor=FFD700" />
     <a href="https://github.com/Modern-Wizard/Modern-Wizard/blob/main/Google%20Cybersecurity%20%20Certificate.png">view certificate</a>
+<img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201%20Certificate-007bff?style=for-the-badge&logo=TryHackMe&logoColor=red" />
 </div>
 
 ## Projects
