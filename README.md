@@ -8,17 +8,17 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Topics         |
 |-----------------------------------------------|----------------------------|
-| Cyber Defence Frameworks       | <a href="https://google.com">Detection Lab</a>|
-| Cyber Threat Intelligence | <a href="https://google.com">Detection Lab</a>|
-| Network Security and Traffic Analysis        | <a href="https://google.com">Detection Lab</a>|
-| Endpoint Security Monitoring      | <a href="https://google.com">Detection Lab</a>|
-| Security Information and Event Managemen                  | <a href="https://google.com">Detection Lab</a>|
-| Digital Forensics and Incident Response | <a href="https://google.com">Detection Lab</a>|
-| Phishing | <a href="https://google.com">Detection Lab</a>|
-| SOC Level 1 Capstone Challenges | <a href="https://google.com">Detection Lab</a>|
-| Active Directory | <a href="https://google.com">Detection Lab</a>|
+| Cyber Defence Frameworks       | <a href="https://google.com">Topics Covered</a>|
+| Cyber Threat Intelligence | <a href="https://google.com">Topics Covered</a>|
+| Network Security and Traffic Analysis        | <a href="https://google.com">Topics Covered</a>|
+| Endpoint Security Monitoring      | <a href="https://google.com">Topics Covered</a>|
+| Security Information and Event Managemen                  | <a href="https://google.com">Topics Covered</a>|
+| Digital Forensics and Incident Response | <a href="https://google.com">Topics Covered</a>|
+| Phishing | <a href="https://google.com">Topics Covered</a>|
+| SOC Level 1 Capstone Challenges | <a href="https://google.com">Topics Coveredb</a>|
+| Active Directory | <a href="https://google.com">Topics Covered</a>|
 
 ## Tools
 
