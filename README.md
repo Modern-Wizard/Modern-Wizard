@@ -10,7 +10,7 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 
 | Skill                                         | Associated Topics         |
 |-----------------------------------------------|----------------------------|
-| Cyber Defence Frameworks       | <a href="https://google.com">Topics Covered</a>|
+| Cyber Defence Frameworks       | <a href="https://github.com/Modern-Wizard/cyberdefenceframework/tree/main">Topics Covered</a>|
 | Cyber Threat Intelligence | <a href="https://google.com">Topics Covered</a>|
 | Network Security and Traffic Analysis        | <a href="https://google.com">Topics Covered</a>|
 | Endpoint Security Monitoring      | <a href="https://google.com">Topics Covered</a>|
