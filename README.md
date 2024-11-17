@@ -6,7 +6,6 @@
 I am a cybersecurity enthusiast with a solid foundation in cybersecurity principles and hands-on experience gained through certifications, personal projects, and labs. I am eager to start my career as a cybersecurity analyst, where I can apply my technical skills, attention to detail, and problem-solving abilities to safeguard organizations' assets.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Topics         |
 |-----------------------------------------------|----------------------------|
