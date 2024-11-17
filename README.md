@@ -13,8 +13,8 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 | Cyber Defence Frameworks       | <a href="https://github.com/Modern-Wizard/cyberdefenceframework/tree/main">Topics Covered</a>|
 | Cyber Threat Intelligence | <a href="https://github.com/Modern-Wizard/Cyberthreatintelligence/tree/main">Topics Covered</a>|
 | Network Security and Traffic Analysis        | <a href="https://github.com/Modern-Wizard/Networksecurity-Trafficanalysis/tree/main">Topics Covered</a>|
-| Endpoint Security Monitoring      | <a href="https://google.com">Topics Covered</a>|
-| Security Information and Event Managemen                  | <a href="https://google.com">Topics Covered</a>|
+| Endpoint Security Monitoring      | <a href="https://github.com/Modern-Wizard/Endpointsecuritymonitoring/tree/main">Topics Covered</a>|
+| Security Information and Event Management                  | <a href="https://google.com">Topics Covered</a>|
 | Digital Forensics and Incident Response | <a href="https://google.com">Topics Covered</a>|
 | Phishing | <a href="https://google.com">Topics Covered</a>|
 | SOC Level 1 Capstone Challenges | <a href="https://google.com">Topics Coveredb</a>|
