@@ -17,7 +17,6 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 | Security Information and Event Management                  | <a href="https://github.com/Modern-Wizard/SIEM/tree/main">Topics Covered</a>|
 | Digital Forensics and Incident Response | <a href="https://github.com/Modern-Wizard/DFIR/tree/main">Topics Covered</a>|
 | Phishing | <a href="https://google.com">Topics Covered</a>|
-| SOC Level 1 Capstone Challenges | <a href="https://google.com">Topics Covered</a>|
 | Active Directory | <a href="https://google.com">Topics Covered</a>|
 
 ## Tools
