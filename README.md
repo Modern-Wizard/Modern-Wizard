@@ -46,4 +46,4 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 
 ## Projects
 ### SOC Level 1 Projects 
-<a href="#">view projects</a>|
+<a href="#">View Projects</a>|
