@@ -45,4 +45,4 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 </div>
 
 ## Projects
-### SOC Level 1 Projects
+### SOC Level 1 Projects <a href="#">view projects</a>|
