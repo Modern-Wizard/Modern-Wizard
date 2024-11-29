@@ -45,5 +45,4 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+### SOC Level 1 Projects
