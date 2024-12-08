@@ -45,7 +45,7 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 </div>
 
 ## Projects
-### <a href="https://github.com/Modern-Wizard/SOCL1projects">1.Tempest</a>
+### <a href="https://github.com/Modern-Wizard/Tempest">1.Tempest</a>
 ### <a href="https://github.com/Modern-Wizard/SOCL1projects">2.Boogeyman 1</a>
 ### <a href="https://github.com/Modern-Wizard/SOCL1projects">3.Boogeyman 2</a>
 ### <a href="https://github.com/Modern-Wizard/SOCL1projects">4.Boogeyman 3</a>
