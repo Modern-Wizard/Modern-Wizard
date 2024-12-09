@@ -41,7 +41,11 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-007bff?style=for-the-badge&logo=Google&logoColor=FFD700" />
     <a href="https://github.com/Modern-Wizard/Modern-Wizard/blob/main/Google%20Cybersecurity%20%20Certificate.png">view certificate</a>
+</div>
+<div>
 <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201%20Certificate-007bff?style=for-the-badge&logo=TryHackMe&logoColor=red" />
+</div>
+<div>
 <img src="https://img.shields.io/badge/-TryHackMe%20Cyber%20Defence%20Certificate-007bff?style=for-the-badge&logo=TryHackMe&logoColor=red" />
 </div>
 
