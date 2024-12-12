@@ -1,5 +1,10 @@
 # Hello, I'm Prem
+<div>
 <a href="https://linkedin.com/in/prem-thapa-csit"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/r/p/mowiz"><img src="https://img.shields.io/badge/-TryHackMe-232323?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+</div>
+
+
 
 ## Objective
 
