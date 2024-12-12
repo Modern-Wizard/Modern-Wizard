@@ -44,7 +44,7 @@ I am a cybersecurity enthusiast with a solid foundation in cybersecurity princip
 ## Certifications
 
 <div>
-<a href="https://github.com/Modern-Wizard/Modern-Wizard/blob/main/Google%20Cybersecurity%20%20Certificate.png"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-007bff?style=for-the-badge&logo=Google&logoColor=FFD700" /></a>
+<a href="https://coursera.org/share/24495611e0b378eedd06962adfa3f3fd"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-007bff?style=for-the-badge&logo=Google&logoColor=FFD700" /></a>
 </div>
 <div>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BVUPBONY40.png"><img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201%20Certificate-007bff?style=for-the-badge&logo=TryHackMe&logoColor=red" /></a>
